@@ -10,7 +10,7 @@
   .nav-links, .nav-cta { display: none; }
   .hamburger { display: flex; }
 
-  .hero { padding: 0 2rem 3rem; }
+  .hero { padding: 8rem 2rem 3rem; }
   .hero-year { right: 2rem; }
   .hero-content { grid-template-columns: 1fr; gap: 3rem; margin-top: 5rem; }
   .hero-bottom { flex-direction: column; align-items: flex-start; }
